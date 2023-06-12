@@ -1,0 +1,13 @@
+#grid{
+    width:400px;
+    height:300px;
+    display:flex;
+    flex-wrap:wrap;
+    border:0.6rem dashed yellow;
+    
+
+}
+body{
+    background:black;
+    color:white;
+}
